@@ -28,3 +28,5 @@ git commit -m "my first commit"
 git push -u
 
 git clone <repository url>   >> For cloning a repository from Github
+
+git branch >> list all branches
